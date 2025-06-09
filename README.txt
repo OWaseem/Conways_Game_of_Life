@@ -1,4 +1,5 @@
 # Conway's Game of Life Simulation
+# By Omar Waseem
 
 This project is an implementation of Conway's Game of Life using Python, NumPy, and Matplotlib. It simulates how a grid of cells evolves over time based on a simple set of rules.
 
